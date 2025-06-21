@@ -31,8 +31,8 @@ pip install tensorflow matplotlib numpy opencv-python scikit-learn
 
 1. Clone the repository and navigate to the project directory:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>/github projects/CNN_flower
+   git clone https://github.com/Sat1x/CNN_flowers
+   cd /CNN_flowers
    ```
 
 2. Run the script:
